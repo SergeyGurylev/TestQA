@@ -41,4 +41,3 @@
 	И я перезаполняю для объекта табличную часть "RowIDInfo":
 		| 'Ref'                                                                  | 'Key'                                  | 'RowID'                                | 'Quantity' | 'Basis' | 'CurrentStep' | 'NextStep'                                    | 'RowRef'                                                         | 'BasisKey' |
 		| 'e1cib/data/Document.SalesReturn?ref=acfd00e04c7c3f9f11ec902579a64cd5' | 'fa24e1b6-a356-4d24-86a3-d00396caa095' | 'fa24e1b6-a356-4d24-86a3-d00396caa095' | 1          | ''      | ''            | 'e1cib/data/Catalog.MovementRules?refName=GR' | 'e1cib/data/Catalog.RowIDs?ref=acfd00e04c7c3f9f11ec902579a64cd4' | ''         |
-
